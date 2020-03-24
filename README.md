@@ -64,19 +64,42 @@ Type http://localhost:8080/scopes/request in browser, you’ll see that the prev
 ![](https://devtraining2.blob.core.windows.net/devtraining2-images/2020/03/24/42be83f4.png)
 #### Proof of Concept:
 Type http://localhost:8080/scopes/session in browser, you’ll see that the previous bean is null because this is a new session, meaning no session bean was there previously. As shown below:
+
 ![](https://devtraining2.blob.core.windows.net/devtraining2-images/2020/03/24/7126a32f.png)
 
 Open another tab or windows of the same or different browser and type http://localhost:8080/scopes/session, It retrieves the same session bean, because they are in the same session. As shown below:
+
 ![](https://devtraining2.blob.core.windows.net/devtraining2-images/2020/03/24/8015a03e.png)
+
 ![](https://devtraining2.blob.core.windows.net/devtraining2-images/2020/03/24/69a5cf5d.png)
+
 ![](https://devtraining2.blob.core.windows.net/devtraining2-images/2020/03/24/dbd112f6.png)
 
 Closing ALL the opened browser window will close the current session and when we open a new window, it is a new session bean present, it cannot retrieve the previous bean, because there isn’t one. So, the previous session bean will be null. As shown below:
+
 ![](https://devtraining2.blob.core.windows.net/devtraining2-images/2020/03/24/fa8aac67.png)
 
 ### 3(c) Application scope
 #### Codes:
+![](https://devtraining2.blob.core.windows.net/devtraining2-images/2020/03/24/7eacddd1.png)
+![](https://devtraining2.blob.core.windows.net/devtraining2-images/2020/03/24/2ab32019.png)
+
 #### Proof of Concept:
+Type http://localhost:8080/scopes/session in browser, you’ll see that the previous bean is null because this is a new request, meaning no application bean was there previously. As shown below:
+
+![](https://devtraining2.blob.core.windows.net/devtraining2-images/2020/03/24/bcfc6e1.png)
+
+Opening another tab/window of a browser shows us that the previous application bean is still there, as shown below: 
+![](https://devtraining2.blob.core.windows.net/devtraining2-images/2020/03/24/72bbc5c0.png)
+
+Closing and reopening the browser windows won’t clear the bean. As shown below:
+
+![](https://devtraining2.blob.core.windows.net/devtraining2-images/2020/03/24/92ee414f.png)
+
+Restarting the application in the IDE will reset the application bean, as shown below:
+
+![](https://devtraining2.blob.core.windows.net/devtraining2-images/2020/03/24/de0bb9a3.png)
+
 
 ### 3(a) Websocket scope
 #### Codes:
