@@ -100,7 +100,3 @@ Restarting the application in the IDE will reset the application bean, as shown 
 
 ![](https://devtraining2.blob.core.windows.net/devtraining2-images/2020/03/24/de0bb9a3.png)
 
-
-### 3(a) Websocket scope
-#### Codes:
-#### Proof of Concept:
