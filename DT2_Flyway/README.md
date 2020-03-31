@@ -164,7 +164,7 @@ Use the command 'mvn flyway:repair' to fix the problem
 We can safely run the application on intellij now
 ![](https://devtraining2.blob.core.windows.net/devtraining2-images/2020/03/31/f6245320.png)
 
-## 3. Integrating Spring Boot with Flyway with Persistent MySQL database - Check out the directory 'FlywaySpringBootSql'
+## 3. Integrating Spring Boot with Flyway with Persistent MySQL database - Check out the directory 'FlywaySpringBootSQL/DemoFlyway'
 A simple application with sql and flywaydb as dependencies, and flyway-maven-plugin as plugin is built, the database corresponding to that application is also built.
 Configurations the pom.xml file and application.properties to link to the database can be seen in the source code.
 
