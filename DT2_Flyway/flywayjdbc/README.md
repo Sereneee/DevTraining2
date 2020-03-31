@@ -1,9 +1,10 @@
-﻿## Flyway migration with H2 in-memory database and Java based migration
+﻿# Flyway migration with H2 in-memory database and Java based migration
 Ref: 
-i. https://flywaydb.org/getstarted/firststeps/maven
-ii. https://flywaydb.org/getstarted/java
+* i. https://flywaydb.org/getstarted/firststeps/maven
+* ii. https://flywaydb.org/getstarted/java
 
-#### SQL Migration
+
+## Database Migration
 This is the first migration, command used to execute migration `mvn flyway:migrate`
 
 ![](https://devtraining2.blob.core.windows.net/devtraining2-images/2020/03/26/9ff48ec6.png)
@@ -27,7 +28,7 @@ Fourth migration
 ![](https://devtraining2.blob.core.windows.net/devtraining2-images/2020/03/26/ffea45da.png)
 ![](https://devtraining2.blob.core.windows.net/devtraining2-images/2020/03/26/99344b2f.png)
 
-#### Solution to error
+## Solution to error
 As seen above, there is error. We can view the schema information by using the command `mvn flyway:info`
 ![](https://devtraining2.blob.core.windows.net/devtraining2-images/2020/03/30/acac2ec6.png)
 *It is noted that the 4th version state is 'Pending'
@@ -48,7 +49,7 @@ Check the schema information to see if all database migration is a success
 Checking the schema info to ensure all migration was successful.
 ![](https://devtraining2.blob.core.windows.net/devtraining2-images/2020/03/30/47e9d625.png)
 
-#### Creating a java based migration
+## Creating a java based migration
 Ref: https://flywaydb.org/getstarted/java
 Things to do beforehand
 * adding the flyway-core dependency to our pom.xml
@@ -76,4 +77,17 @@ Execute the migration command
 
 Check the schema info
 ![](https://devtraining2.blob.core.windows.net/devtraining2-images/2020/03/30/613c30b9.png)
+
+## Accessing the H2 database through web browser
+Type `http://localhost:8080/h2` in browser, enter neccssary credential and the correct JDBC URL that corresponds to the one in the pom.xml and application.properties file and click connect.
+![](https://devtraining2.blob.core.windows.net/devtraining2-images/2020/03/31/d94164ef.png)
+
+Viewing `flyway_schema_history` table
+![](https://devtraining2.blob.core.windows.net/devtraining2-images/2020/03/31/a564f8fb.png)
+
+Viewing `PERSON` table that was created with the scripts
+![](https://devtraining2.blob.core.windows.net/devtraining2-images/2020/03/31/787a2279.png)
+
+*Note: this console can only be accessed when the application is running, and when the application is running, the cmd cannot execute any commands, refer picture below for error in cmd
+![](https://devtraining2.blob.core.windows.net/devtraining2-images/2020/03/31/6c5a0bf3.png)
 

@@ -1,4 +1,4 @@
-﻿## Integrating Spring Boot with Flyway with HSQLDB database
+﻿# Integrating Spring Boot with Flyway with HSQLDB database
 Ref: https://dzone.com/articles/database-versioning-with-flyway-and-java
 This method requires to add the following to the pom file
 ```xml
@@ -21,7 +21,7 @@ spring.datasource.url=jdbc:hsqldb:file:data/app
 spring.jpa.hibernate.ddl-auto=none
 ```
 
-#### Database migration
+## Database migration
 This is a RESTful application that uses flyway to create the database and update its database
 So it has the typical migration script in the src/main/resources/db/migration/ folder, ie:
 V1__customers.sql
@@ -56,7 +56,7 @@ Running the application automatically triggers the flyway migration, the followi
 The following is an example of screenshot after running the application where the migration script has been altered.
 ![](https://devtraining2.blob.core.windows.net/devtraining2-images/2020/03/31/5569b58b.png)
 
-#### Solution to error - using maven flyway plugin so that we can use the command `mvn flyway:repair` like the 1. solution.
+## Solution to error - using maven flyway plugin so that we can use the command `mvn flyway:repair` like the 1. solution.
 Add the following to pom.xml
 ```xml
 <plugin>
