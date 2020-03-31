@@ -1,0 +1,9 @@
+DROP TABLE IF EXISTS employee;
+
+CREATE TABLE employee(
+    id INT NOT NULL AUTO_INCREMENT,
+    username VARCHAR(10) NOT NULL,
+    first_name VARCHAR(10) NOT NULL,
+    email VARCHAR(40) NOT NULL,
+    PRIMARY KEY (id)
+)
