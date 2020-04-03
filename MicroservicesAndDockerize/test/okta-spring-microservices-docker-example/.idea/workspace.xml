@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9307ba7-989f-41a6-9cf7-993b8f9c3a73" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZyjXnsAuQ2dRsLJO6NORqA8kSQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../okta-spring-microservices-docker-example" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.okta.developer.docker_microservices.ui" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\serene.chng.khoo\Documents\GitHub\DevTraining2\MicroservicesAndDockerize\test\okta-spring-microservices-docker-example\school-ui\src\test\resources" />
+      <recent name="C:\Users\serene.chng.khoo\Documents\GitHub\DevTraining2\MicroservicesAndDockerize\test\okta-spring-microservices-docker-example" />
+      <recent name="C:\Users\serene.chng.khoo\Documents\GitHub\DevTraining2\MicroservicesAndDockerize\test\okta-spring-microservices-docker-example\school-ui" />
+      <recent name="C:\Users\serene.chng.khoo\Documents\GitHub\DevTraining2\MicroservicesAndDockerize\test\okta-spring-microservices-docker-example\school-service" />
+      <recent name="C:\Users\serene.chng.khoo\Documents\GitHub\DevTraining2\MicroservicesAndDockerize\test\okta-spring-microservices-docker-example\discovery" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.discovery">
+    <configuration name="config" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.okta.developer.docker_microservices.config.ConfigApplication" />
+      <module name="config" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="discovery" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.okta.developer.docker_microservices.discovery.DiscoveryApplication" />
+      <module name="discovery" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="school-service" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.okta.developer.docker_microservices.service.ServiceApplication" />
+      <module name="school-service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="school-ui" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.okta.developer.docker_microservices.ui.UIWebApplication" />
+      <module name="school-ui" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.school-service" />
+      <item itemvalue="Application.school-ui" />
+      <item itemvalue="Application.discovery" />
+      <item itemvalue="Application.config" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9307ba7-989f-41a6-9cf7-993b8f9c3a73" name="Default Changelist" comment="" />
+      <created>1585818269865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585818269865</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="0" width="1089" height="671" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585839156690">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="141" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1585839156690" />
+    <state x="141" y="9" width="1089" height="671" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585822422196" />
+    <state x="352" y="144" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585832972235">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="352" y="144" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1585832972235" />
+    <state x="430" y="189" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585833463636">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="430" y="189" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1585833463636" />
+    <state x="430" y="189" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585822409215" />
+    <state x="362" y="200" width="557" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585836253575">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="362" y="200" width="557" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1585836253575" />
+    <state x="361" y="0" key="#school-ui/Dockerfile" timestamp="1585894309940">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="361" y="0" key="#school-ui/Dockerfile/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1585894309940" />
+    <state x="516" y="135" key="FileChooserDialogImpl" timestamp="1585896373169">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="516" y="135" key="FileChooserDialogImpl/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1585896373169" />
+    <state x="516" y="135" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585822308408" />
+    <state width="1237" height="219" key="GridCell.Tab.0.bottom" timestamp="1585845312811">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="219" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1585845312811" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585822450580" />
+    <state width="1237" height="219" key="GridCell.Tab.0.center" timestamp="1585845312811">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="219" key="GridCell.Tab.0.center/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1585845312811" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585822450580" />
+    <state width="1237" height="219" key="GridCell.Tab.0.left" timestamp="1585845312810">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="219" key="GridCell.Tab.0.left/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1585845312810" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585822450579" />
+    <state width="1237" height="219" key="GridCell.Tab.0.right" timestamp="1585845312811">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="219" key="GridCell.Tab.0.right/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1585845312811" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585822450580" />
+  </component>
+</project>
