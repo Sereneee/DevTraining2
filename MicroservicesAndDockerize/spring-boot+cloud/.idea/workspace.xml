@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c563f4c-24ff-4cbf-9efe-b09df38eb901" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZvydRqvGM1rol5MvxgctPavAwb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\serene.chng.khoo\Documents\GitHub\DevTraining2\MicroservicesAndDockerize\java-microservices-examples\spring-boot+cloud\api-gateway\src\main\java\com\example\apigateway" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.apigateway">
+    <configuration name="apigateway" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.example.apigateway.ApiGatewayApplication" />
+      <module name="api-gateway" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="carservice" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.example.carservice.CarServiceApplication" />
+      <module name="car-service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="discoveryservice" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.example.discoveryservice.EurekaServiceApplication" />
+      <module name="discovery-service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.apigateway" />
+      <item itemvalue="Application.carservice" />
+      <item itemvalue="Application.discoveryservice" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c563f4c-24ff-4cbf-9efe-b09df38eb901" name="Default Changelist" comment="" />
+      <created>1585733950360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585733950360</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585734704657">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1585734704657" />
+    <state x="145" y="99" key="#com.intellij.ide.util.MemberChooser" timestamp="1585748381305">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="145" y="99" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1585748381305" />
+    <state x="466" y="124" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585734664890">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="466" y="124" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1585734664890" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1585795642271">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1585795642271" />
+    <state width="1237" height="236" key="GridCell.Tab.0.bottom" timestamp="1585762207509">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="236" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585762207509" />
+    <state width="1237" height="236" key="GridCell.Tab.0.center" timestamp="1585762207509">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="236" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585762207509" />
+    <state width="1237" height="236" key="GridCell.Tab.0.left" timestamp="1585762207509">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="236" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585762207509" />
+    <state width="1237" height="236" key="GridCell.Tab.0.right" timestamp="1585762207509">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="236" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585762207509" />
+    <state width="1237" height="236" key="GridCell.Tab.1.bottom" timestamp="1585762207509">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="236" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585762207509" />
+    <state width="1237" height="236" key="GridCell.Tab.1.center" timestamp="1585762207509">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="236" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1585762207509" />
+    <state width="1237" height="236" key="GridCell.Tab.1.left" timestamp="1585762207509">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="236" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1585762207509" />
+    <state width="1237" height="236" key="GridCell.Tab.1.right" timestamp="1585762207509">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="236" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1585762207509" />
+    <state x="284" y="0" key="SettingsEditor" timestamp="1585814735634">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="284" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1585814735634" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1585795531217">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1585795531217" />
+  </component>
+</project>
