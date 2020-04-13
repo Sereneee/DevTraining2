@@ -24,3 +24,17 @@
 9.	Spring Cloud Circuit Breaker (using different ways: resilience4j, Hystrix) 
 10.	Apply Feature Flag to Spring Boot (e.g. ff4j or unleash)
 
+## Side quest
+1. Checkpoint #1 : You should be able to compile and run your applications only using javac and java. 
+Don't use spring boot or anything.
+
+    Objective : Write a simple command line program that accepts input as command line arguments and does some basic CRUD operations on a sqllite DB
+    
+    Condition : You cannot start off using Maven
+
+2. Checkpoint #2 : Dust off the grand daddy of java build tools..Ant...and use that to compile your application into a jar and run it.
+
+3. Checkpoint #3: Move on from Ant to maven
+
+4. Final Boss battle : Come and explain to me differences you observed as you progressed
+

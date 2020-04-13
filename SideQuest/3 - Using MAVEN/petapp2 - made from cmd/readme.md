@@ -1,0 +1,1 @@
+This application/project was created using maven commands in the command line.
